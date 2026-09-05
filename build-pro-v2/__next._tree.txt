@@ -1,3 +1,3 @@
 :HL["/PublicGiacomoPoddaPortfolio/build-pro-v2/_next/static/css/4b55870478d4a62b.css","style"]
 :HL["/PublicGiacomoPoddaPortfolio/build-pro-v2/_next/static/css/41b9eca885c4b8e9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ScY0qxzjTwe28JkVOpSha"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"YTrmH56iTdc4u8cWGrWfo"}
